@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Machine+Learning+%26+GenAI;Agentic+AI+%7C+RAG+%7C+LLM+Fine-Tuning;15%2B+ML+%26+Computer+Vision+Projects;Strong+DSA+%7C+OOP+%7C+Core+CS+Foundations" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Machine+Learning+%26+GenAI;Agentic+AI+%7C+RAG+%7C+LLM+Fine-Tuning;15%2B+ML+%26+Computer+Vision+Projects;Strong+DSA+%7C+OOPS+%7C+Core+CSE+Foundations" />
 </p>
 
 ---
@@ -98,7 +98,7 @@ Backed by **strong Computer Science fundamentals**—**DSA, OOP, OS, DBMS, and C
 
 ## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://github.com/meer3305/meer3305/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/meer3305/meer3305/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
