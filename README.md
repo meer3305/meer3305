@@ -74,7 +74,7 @@ Backed by **strong Computer Science fundamentals**—**DSA, OOP, OS, DBMS, and C
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/Meer%20Aymaan%20Ali">
+  <a href="https://www.linkedin.com/in/meer-aymaan-ali-01554030b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:meeraymaanali@gmail.com">
