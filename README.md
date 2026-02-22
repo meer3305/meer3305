@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Meer Aymaan Ali</h1>
 
 <h3 align="center">
-  🚀 Aspiring AI Engineer | ML • GenAI • Agentic Systems  
+  🚀  AI Engineer | ML • GenAI • Agentic Systems  
   <br/>
   🎓 Tech Captain @ CSI MJCET
 </h3>
