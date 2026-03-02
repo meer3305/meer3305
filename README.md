@@ -176,7 +176,7 @@ Backed by **strong Computer Science fundamentals**  **Data Structure and Algorit
 ---
 
 <p align="center">
-  <i>“I don’t just train models — I engineer intelligent systems.”</i>
+  <i>“I don’t just train models — I engineer intelligent systems”</i>
 </p>
 
 <p align="center">
