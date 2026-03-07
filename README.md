@@ -167,7 +167,32 @@ Backed by **strong Computer Science fundamentals**  **Data Structure and Algorit
 </p>
 
 ---
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=meer3305&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=meer3305&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meer3305&layout=compact&theme=tokyonight)
+
+## 🌆 GitHub Skyline
+
+[![Skyline](https://img.shields.io/badge/View-GitHub%20Skyline-blue?style=for-the-badge)](https://skyline.github.com/meer3305)
+## 📊 Development Metrics
+
+![Metrics](https://metrics.lecoq.io/meer3305?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&config.timezone=Asia%2FKolkata)
+## ⏱ Coding Activity
+
+![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meer3305&theme=tokyonight)
+## 📊 Profile Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meer3305&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meer3305&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meer3305&theme=tokyonight)
+
+## 💡 Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ## 🐍 Contribution Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/meer3305/meer3305/output/github-contribution-grid-snake.svg" />
@@ -180,5 +205,5 @@ Backed by **strong Computer Science fundamentals**  **Data Structure and Algorit
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=meer3305&color=6"/>
+  <img src="https://komarev.com/ghpvc/?username=meer3305&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
