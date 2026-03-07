@@ -175,9 +175,7 @@ Backed by **strong Computer Science fundamentals**  **Data Structure and Algorit
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meer3305&layout=compact&theme=tokyonight)
 
-## 🌆 GitHub Skyline
 
-[![Skyline](https://img.shields.io/badge/View-GitHub%20Skyline-blue?style=for-the-badge)](https://skyline.github.com/meer3305)
 ## 📊 Development Metrics
 
 ![Metrics](https://metrics.lecoq.io/meer3305?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&config.timezone=Asia%2FKolkata)
