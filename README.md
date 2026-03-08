@@ -176,9 +176,6 @@ Backed by **strong Computer Science fundamentals**  **Data Structure and Algorit
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meer3305&layout=compact&theme=tokyonight)
 
 
-## 📊 Development Metrics
-
-![Metrics](https://metrics.lecoq.io/meer3305?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&config.timezone=Asia%2FKolkata)
 ## ⏱ Coding Activity
 
 ![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meer3305&theme=tokyonight)
