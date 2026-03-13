@@ -6,7 +6,7 @@
   <br/>
   🎓 Tech Captain @ CSI MJCET
 </h3>
- 
+  
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=800&lines=FAANG-Ready+AI+Engineer+in+the+Making;Machine+Learning+%7C+GenAI+%7C+LLMs;Agentic+AI+%7C+RAG+%7C+Fine-Tuning;15%2B+ML+%26+Computer+Vision+Projects;Strong+DSA+%7C+OOP+%7C+Core+CSE+Foundations;Building+Scalable%2C+Production-Grade+AI+Systems" />
 </p>
